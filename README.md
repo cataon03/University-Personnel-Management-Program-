@@ -70,7 +70,7 @@ Person
 - javac FinalProject.java
 - java FinalProject
 
-###Sample Run
+### Sample Run
 Welcome to my Personal Management Program
 Choose one of the options:
 1- Enter the information of a faculty
@@ -82,6 +82,32 @@ Choose one of the options:
 7- Delete a person
 8- Exit Program
 ...
+
+### Sample Report (report.txt)
+Report created on [Date]
+***********************
+Faculty Members
+-------------------------
+1. John Miller
+   ID: jo7894
+   Professor, Engineering
+
+Staff Members
+-------------------
+1. Jamal Kareem
+   ID: ja6980
+   English, Full Time
+
+Students (Sorted by gpa in descending order)
+-------------------
+1. Julia Alvarez
+   ID: ju1254
+   Gpa: 3.26
+   Credit hours: 7
+2. Matt Jones
+   ID: ma0258
+   Gpa: 2.78
+   Credit hours: 0
 
 
 
