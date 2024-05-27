@@ -62,6 +62,7 @@ Person
 ├── Employee
 │   ├── Faculty
 │   └── Staff
+```
 
 ## Usage Instructions
 
@@ -107,4 +108,11 @@ Students (Sorted by gpa in descending order)
    ID: ma0258
    Gpa: 2.78
    Credit hours: 0
+
+
+
+
+
+
+
 
