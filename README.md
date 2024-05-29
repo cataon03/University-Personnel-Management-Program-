@@ -71,15 +71,15 @@ Person
 - java FinalProject
 
 ### Sample Run
-Welcome to my Personal Management Program
-Choose one of the options:
-- 1- Enter the information of a faculty
-- 2- Enter the information of a student
-- 3- Print tuition invoice for a student
-- 4- Print faculty information
-- 5- Enter the information of a staff member
-- 6- Print the information of a staff member
-- 7- Delete a person
-- 8- Exit Program
+Welcome to my Personal Management Program <br>
+Choose one of the options: <br>
+1- Enter the information of a faculty  <br>
+2- Enter the information of a student  <br>
+3- Print tuition invoice for a student  <br>
+4- Print faculty information  <br>
+5- Enter the information of a staff member  <br>
+6- Print the information of a staff member  <br>
+7- Delete a person  <br>
+8- Exit Program  <br>
 ...
 
